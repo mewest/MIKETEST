@@ -12,7 +12,7 @@ function varargout = mastercorr_extract(W,varargin)
 %   corrValue (double)      : peak correlation value (<=1.0) 
 %   corrValueAdj (double)   : max. correlation of an adjacent peak
 %   network (cell)          : network code
-%   station (cell)          : station code
+%   station (cell)          : station code    
 %   channel (cell)          : channel code
 %   location (cell)         : network code
 %
