@@ -20,7 +20,9 @@ function sitechan = db_get_sitechan_info(stalist,chanlist,datetime,dbname)
 %    sitechan = db_get_sitechan_info('AUL',{'BHZ' 'BHN' 'BHE'},733224,'dbtmp')
 %
 %
-% To-do: Current version does not output ctype and descrip fields
+
+% AUTHOR: Michael West, Geophysical Institute, Univ. of Alaska Fairbanks
+% TODO: Current version does not output ctype and descrip fields
 
 
 

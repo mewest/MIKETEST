@@ -23,8 +23,8 @@ function whichgismo(sourceLocation)
 % };
 %
 % See also WHICHGISMO_PATHS, RMGISMO
-%
-%   Author(s): M. West
+
+% AUTHOR: Michael West, Geophysical Institute, Univ. of Alaska Fairbanks
 
 
 % LOAD PATH LIST

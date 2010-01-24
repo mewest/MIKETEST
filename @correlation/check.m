@@ -31,6 +31,8 @@ function val = check(c,varargin)
 % traces are ignored).
 %
 
+% AUTHOR: Michael West, Geophysical Institute, Univ. of Alaska Fairbanks
+
 
 % GET INPUT PARAMETERS
 if ~isa(c,'correlation')

@@ -23,6 +23,8 @@ function w = loadsacfile(fileList)
 %
 % see also waveform datasource datasource/setfile
 
+% AUTHOR: Michael West, Geophysical Institute, Univ. of Alaska Fairbanks
+
 
 if ~isa(fileList,'cell')
     error('File names must be cells');

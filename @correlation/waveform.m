@@ -19,5 +19,7 @@ function w = waveform(c)
 %   end
 %   c = correlation(c,w);
 
+% AUTHOR: Michael West, Geophysical Institute, Univ. of Alaska Fairbanks
+
 
 w = c.W;

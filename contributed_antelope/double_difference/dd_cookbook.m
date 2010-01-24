@@ -1,3 +1,5 @@
+
+
 %% HypoDD cross correlation toolbox 
 % This toolbox of programs carries out waveform cross-correlation on picked
 % P and S phases to generate date suitable for inclusion in the hydoDD
@@ -9,6 +11,8 @@
 %       correlation toolbox
 %       epoch2datenum.m
 
+% AUTHOR: Michael West, Geophysical Institute, Univ. of Alaska Fairbanks
+% TODO: This cookbook looks incomplete?
 
 %% Data sources
 % This toolbox is hardwired to data from Antelope databases. This includes

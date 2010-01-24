@@ -99,6 +99,8 @@ function plot(c,varargin)
 % plotted on a single figure. Requires the CLUST property be filled. SCALE
 % term is required for consistency but has little impact on the plots.
 
+% AUTHOR: Michael West, Geophysical Institute, Univ. of Alaska Fairbanks
+
 
 
 % SET VAR5 (USED ARBITRARILY BY SOME SUBFUNCTIONS)

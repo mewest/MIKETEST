@@ -2,6 +2,8 @@ function overlayplot(c,scale,ord)
 
 % Private method. See ../plot for details.
 
+% AUTHOR: Michael West, Geophysical Institute, Univ. of Alaska Fairbanks
+
 
 % PREP PLOT
 figure('Color','w','Position',[50 50 850 200]);

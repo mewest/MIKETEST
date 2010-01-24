@@ -15,8 +15,9 @@ function w = response_apply(w,resp)
 % Nyquist frequency. With the exception of FFT(1), values in FFT are
 % conjugate symmentric about N/2+1
 %
-% Author: Michael West
-% Date: May 2009
+
+% AUTHOR: Michael West, Geophysical Institute, Univ. of Alaska Fairbanks
+
 
 
 error('This code is not yet functional. Sorry - MEW');

@@ -2,6 +2,8 @@ function dendrogramplot(c);
 
 % Private method. See ../plot for details.
 
+% AUTHOR: Michael West, Geophysical Institute, Univ. of Alaska Fairbanks
+
 
 
 if ~strcmpi(class(c),'correlation')

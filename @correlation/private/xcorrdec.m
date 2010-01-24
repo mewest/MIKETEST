@@ -3,6 +3,8 @@ function d = xcorrdec(d)
 % Same algorithm as xcorr1xr, except this function decomposes the complex
 % numbers into their real and imaginary parts before doing the math.
 
+% AUTHOR: Michael West, Geophysical Institute, Univ. of Alaska Fairbanks
+
 % PREP NECESSARY TERMS
 [M,N] = size(d.w);
 pretrig = 86400*(d.trig-d.start);   % time between trace start and trigger

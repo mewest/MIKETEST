@@ -18,7 +18,9 @@
 %
 % [NOTE that the set(gcf,'Position',...) lines used repeatedly below are
 % just for display purposes in this document.]
- 
+
+% AUTHOR: Michael West, Geophysical Institute, Univ. of Alaska Fairbanks
+
 
 %% Use traces from the demo dataset
 % For the purposes of this cookbook example we use the built-in correlation

@@ -8,6 +8,8 @@ function c = integrate(c)
 % to remove unwanted low frequencies that can dominate the integrated
 % waveforms.
 
+% AUTHOR: Michael West, Geophysical Institute, Univ. of Alaska Fairbanks
+
 c.W = detrend(c.W);
 c.W = demean(c.W);
 c.W = integrate(c.W);

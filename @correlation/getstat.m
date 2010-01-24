@@ -26,7 +26,9 @@ function c=getstat(c)
 %
 % The least squares inversion in this routine bogs down quickly when
 % operating on more than a few hundred traces.
-%
+
+
+% AUTHOR: Michael West, Geophysical Institute, Univ. of Alaska Fairbanks
 % TODO: needs better handling of xcorr=1 values (MEW - 11/20/06)
 %
 

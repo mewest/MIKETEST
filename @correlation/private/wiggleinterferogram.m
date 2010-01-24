@@ -2,6 +2,8 @@ function wiggleinterferogram(c,scale,type,norm,range)
 
 % Private method. See ../plot for details.
 
+% AUTHOR: Michael West, Geophysical Institute, Univ. of Alaska Fairbanks
+
 
 
 % EXTRACT IMAGE

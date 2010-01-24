@@ -19,6 +19,8 @@ function index = find(c,varargin)
 %   INDEX = FIND(c,'BIG',5)
 %
 
+% AUTHOR: Michael West, Geophysical Institute, Univ. of Alaska Fairbanks
+
 
 % READ & CHECK ARGUMENTS
 if ~strcmpi(class(c),'correlation')

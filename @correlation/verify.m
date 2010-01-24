@@ -4,6 +4,8 @@ function c = verify(c)
 % them if they are not equal. Traces ends are trimmed or zero-padded to the mode 
 % length of all traces.
 
+% AUTHOR: Michael West, Geophysical Institute, Univ. of Alaska Fairbanks
+
 
 lengths = get(c.W,'DATA_LENGTH');
 ideal = mode(lengths);

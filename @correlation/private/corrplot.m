@@ -1,5 +1,9 @@
 function corrplot(c)
 
+% Called internally by correlation/plot to plot correlation matrix.
+
+% AUTHOR: Michael West, Geophysical Institute, Univ. of Alaska Fairbanks
+
 
 % PREP PLOT
 figure('Color','w','Position',[50 50 600 500]);

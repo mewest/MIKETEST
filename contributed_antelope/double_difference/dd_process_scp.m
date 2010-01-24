@@ -12,6 +12,8 @@ function dd_process_scp(dbname,scpfile,varargin)
 % DD_PROCESS_SCP(DBNAME,SCP_FILE,DIRNAME) same as above, except
 % that the correlation files are written into a directory named DIRNAME.
 
+% AUTHOR: Michael West, Geophysical Institute, Univ. of Alaska Fairbanks
+
 
 
 % CHECK FOR VALID DATABASE

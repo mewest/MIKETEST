@@ -157,8 +157,8 @@ function c = correlation(varargin)
 % SCNLOBJECT objects on which CORRELATION is built.
 % See also datasource waveform scnlobject
 
+% AUTHOR: Michael West, Geophysical Institute, Univ. of Alaska Fairbanks
 
-%   Author(s): M. West
 
 
 

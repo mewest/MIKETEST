@@ -10,6 +10,8 @@ function c = strip(c,varargin)
 % link field as been filled (via the LINKAGE function), the correlation
 % matrix is often no longer needed.
 
+% AUTHOR: Michael West, Geophysical Institute, Univ. of Alaska Fairbanks
+
 
 
 % READ & CHECK ARGUMENTS

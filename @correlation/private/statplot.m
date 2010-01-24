@@ -2,6 +2,8 @@ function statplot(c);
 
 % Private method. See ../plot for details.
 
+% AUTHOR: Michael West, Geophysical Institute, Univ. of Alaska Fairbanks
+
 
 
 Rmean  = c.stat(:,1);

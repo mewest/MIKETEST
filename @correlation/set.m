@@ -6,6 +6,8 @@ function c = set(c, prop_name, val)
 %
 % see help correlation/get.m for valid property names
 
+% AUTHOR: Michael West, Geophysical Institute, Univ. of Alaska Fairbanks
+
 
 
 if nargin <= 1

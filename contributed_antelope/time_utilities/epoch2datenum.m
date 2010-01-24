@@ -1,6 +1,8 @@
 % TIME = EPOCH2DATENUM(EPOCH) translates Unix epoch date format into Matlab
 % numeric date format. Requires the Antelope tool box.
 
+% AUTHOR: Michael West, Geophysical Institute, Univ. of Alaska Fairbanks
+
 function time = epoch2datenum(epoch)
 
 % 

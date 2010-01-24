@@ -1,6 +1,8 @@
 % Configuration file containing preset paths for whichgismo. See
 % whichgismo.m for details.
 
+% AUTHOR: Michael West, Geophysical Institute, Univ. of Alaska Fairbanks
+
 
 % PREDEFINED PATH
 paths = {

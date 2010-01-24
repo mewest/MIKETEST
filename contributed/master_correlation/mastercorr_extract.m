@@ -47,6 +47,8 @@ function varargout = mastercorr_extract(W,varargin)
 % See also mastercorr_scan, mastercorr_plot_stats, correlation,
 % waveform/addfield
 
+% AUTHOR: Michael West, Geophysical Institute, Univ. of Alaska Fairbanks
+
 
 
 % CHECK INPUTS

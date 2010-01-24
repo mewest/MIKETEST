@@ -18,6 +18,8 @@ function reducedisp_wfmeas(varargin);
 %    algorithm = 'BODY';    % algorithm (BODY or SURF)
 %    reducedisp_wfmeas(starttime,endtime,scnl,dist,ds,dbout,filt,Tstep,algorithm);
 
+% AUTHOR: Michael West, Geophysical Institute, Univ. of Alaska Fairbanks
+
 
 if numel(varargin) ~= 9
     error('Incorrect number of input arguments');

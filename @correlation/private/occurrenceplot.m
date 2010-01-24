@@ -2,6 +2,8 @@ function occurrenceplot(c,scale,clusternum);
 
 % Private method. See ../plot for details.
 
+% AUTHOR: Michael West, Geophysical Institute, Univ. of Alaska Fairbanks
+
 
 if ~strcmpi(class(c),'correlation')
     error('First input must be a correlation object');

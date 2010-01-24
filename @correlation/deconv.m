@@ -10,6 +10,8 @@ function c = deconv(c,varargin)
 % trying to highlight, it may make sense to normalize the trace amplitudes
 % before stacking. This can be performed with the NORM function.
 
+% AUTHOR: Michael West, Geophysical Institute, Univ. of Alaska Fairbanks
+
 
 
 error('This code is not yet functional. Sorry - MEW');

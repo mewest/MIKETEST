@@ -32,6 +32,8 @@ function val = get(c,prop_name)
 %   Data:                    Matrix of raw trace data
 %                           (n traces) x (m samples)         
 
+% AUTHOR: Michael West, Geophysical Institute, Univ. of Alaska Fairbanks
+
 
 if nargin <= 1
     error('Not enough inputs');

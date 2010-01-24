@@ -21,6 +21,8 @@ function reducedisp_plot(dbname)
 % Currently not compatible with Linux 64-bit Matlab libraries
 % Use 32-bit version 
 
+% AUTHOR: Michael West, Geophysical Institute, Univ. of Alaska Fairbanks
+
 
 
 %%%%%%%%%%%%%%%%%% 32 only %%%%%%%%%%%%%%%%%%%%

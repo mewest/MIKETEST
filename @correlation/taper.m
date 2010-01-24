@@ -17,6 +17,9 @@ function c = taper(c,varargin)
 % clear to me when/if this might ever be useful - MEW.
 %
 
+% AUTHOR: Michael West, Geophysical Institute, Univ. of Alaska Fairbanks
+
+
 % READ & CHECK ARGUMENTS
 if ~strcmpi(class(c),'correlation')
     error('First input must be a correlation object');

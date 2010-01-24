@@ -4,13 +4,7 @@ function c = conv(c,varargin)
 % correlation object has traces that are 2*N-1 samples long, where the
 % original traces are of length N. Because all traces ...
 
-
-% 
-% ** NOTE TO USERS: Though most plotting routines normalize adjacent traces
-% to comparable amplitudes for display, the real trace amplitudes often
-% very by orders of magnitudes. Depending on the features the user is
-% trying to highlight, it may make sense to normalize the trace amplitudes
-% before stacking. This can be performed with the NORM function.
+% AUTHOR: Michael West, Geophysical Institute, Univ. of Alaska Fairbanks
 
 
 % READ & CHECK ARGUMENTS

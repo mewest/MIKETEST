@@ -6,8 +6,9 @@ function resp = response_read(sta,chan,dbname)
 %  The output RESP is a dbresponse object as defined in the Matlab toolbox
 %  for Antelope. RESPONSE_READ is really just a convenient wrapper.
 
-% Author: Michael West
-% Date: May 2009
+
+% AUTHOR: Michael West, Geophysical Institute, Univ. of Alaska Fairbanks
+
 
 
 

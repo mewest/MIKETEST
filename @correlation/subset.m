@@ -17,6 +17,10 @@ function c = subset(c,index)
 % single copy of trace 1.
 %
 
+% AUTHOR: Michael West, Geophysical Institute, Univ. of Alaska Fairbanks
+
+
+
 % RESHAPE AS COLUMN VECTOR
 index = reshape(index,length(index),1);
 

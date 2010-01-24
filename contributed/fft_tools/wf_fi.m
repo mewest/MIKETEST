@@ -9,7 +9,8 @@ function W = wf_fi(W,varargin)
 % first five waveforms. This is a bit ad hoc, but it prevents accidental
 % plotting of thousands of waveforms. To plot specific waveforms one can
 % always use wf_fi(w(n)) where n is the index of the nth waveform.
-%
+
+% AUTHOR: Michael West, Geophysical Institute, Univ. of Alaska Fairbanks
 % Programming note: WF_FI could be folded into WF_FFT
 
 

@@ -6,6 +6,8 @@ function c = sign(c,varargin);
 %     is greater than zero, 0 if it equals zero and -1 if it is
 %     less than zero.
 
+% AUTHOR: Michael West, Geophysical Institute, Univ. of Alaska Fairbanks
+
 c.W = sign(c.W);
 
 

@@ -15,9 +15,9 @@ function family=getclusterstat(c)
 %   finish:  the last trigger time in the cluster (scalar)
 % The fields index and trig are cell arrays.
 %
-%
-
 % See also correlation/cluster
+
+% AUTHOR: Michael West, Geophysical Institute, Univ. of Alaska Fairbanks
 
 
 

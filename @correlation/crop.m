@@ -1,5 +1,7 @@
 function c = crop(c,varargin)
 
+% AUTHOR: Michael West, Geophysical Institute, Univ. of Alaska Fairbanks
+
 % c = CROP(c,[PRETRIG POSTTRIG])
 % This function crop all waveforms to a time window defined by pretrig and
 % posttrig. Pretrig and posttrig are values in seconds relative to the

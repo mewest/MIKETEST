@@ -8,6 +8,8 @@ function c = norm(c,varargin)
 % Short hand for SORT(C,'TIME')
 %
 
+% AUTHOR: Michael West, Geophysical Institute, Univ. of Alaska Fairbanks
+
 
 
 % READ & CHECK ARGUMENTS

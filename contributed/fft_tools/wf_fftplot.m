@@ -2,7 +2,8 @@ function wf_fftplot(w);
 
 % WF_FFTPLOT(WAVEFORM) plot fourier transform of the data.
 
-% written pretty hastily and inefficiently - MEW 6/18/2007
+% AUTHOR: Michael West, Geophysical Institute, Univ. of Alaska Fairbanks
+% TODO: written pretty hastily and inefficiently - MEW 6/18/2007
 
 
 % CHECK ARGUMENTS

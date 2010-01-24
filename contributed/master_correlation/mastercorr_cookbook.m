@@ -1,10 +1,13 @@
 % Demonstration of the major features of the master waveform correlation
 % toolbox.
 
-
 % LOAD WAVEFORM DATA FROM ANY SOURCE IN ANY TIME LENGTH, LIKELY HOURLY TO
 % DAILY IN LENGTH. LONGER WAVEFORMS SHOULD BE OK, BUT MEMORY MAY BECOME AN
 % ISSUE. THIS EXAMPLE USES SIX CONSECUTIVE 10-MINUTE DATA SEGMENTS.
+
+% AUTHOR: Michael West, Geophysical Institute, Univ. of Alaska Fairbanks
+
+
 load mastercorr_cookbook_data
 W = fillgaps(W,0);
 W = demean(W);

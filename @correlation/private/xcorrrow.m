@@ -7,6 +7,8 @@ function d = xcorrrow(d,c,index)
 % when the correlation and lag values of just a few traces need to be
 % calculated within a much larger correlation object.
 
+% AUTHOR: Michael West, Geophysical Institute, Univ. of Alaska Fairbanks
+
 
 % PREP NECESSARY TERMS
 [M,N] = size(d.w);

@@ -9,6 +9,8 @@ function A = getval(OBJ,PROP)
 % value per waveform.
 %
 
+% AUTHOR: Michael West, Geophysical Institute, Univ. of Alaska Fairbanks
+
 
 A = [];
 Ao = get(OBJ,PROP);

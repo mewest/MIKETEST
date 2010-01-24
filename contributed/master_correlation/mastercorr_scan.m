@@ -41,9 +41,8 @@ function [WW,WWxc] = mastercorr_scan(WW,WWsnippet,threshold)
 %
 % See also mastercorr_plot_stats, mastercorr_cookbook, mastercorr_extract
 
-
-% TO DO
-% HANDLE NO TRIGGERS
+% AUTHOR: Michael West, Geophysical Institute, Univ. of Alaska Fairbanks
+% TODO: HANDLE NO TRIGGERS
 
 
 

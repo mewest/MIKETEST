@@ -16,8 +16,8 @@ function c = hilbert(c,n)
 %
 % See HILBERT for the meaning of "N"
 
-% AUTHOR: Michael West
-% LASTUPDATE: June 2009
+
+% AUTHOR: Michael West, Geophysical Institute, Univ. of Alaska Fairbanks
 
 
 if exist('n','var'),

@@ -3,6 +3,8 @@
 % Antelope tool box.
 %
 
+% AUTHOR: Michael West, Geophysical Institute, Univ. of Alaska Fairbanks
+
 function epoch = datenum2epoch(time)
 
 

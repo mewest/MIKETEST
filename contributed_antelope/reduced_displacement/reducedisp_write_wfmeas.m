@@ -5,6 +5,8 @@ function reducedisp_write_wfmeas(dbname,w,flt,algorithm);
 % has a field named REDUCEDISP. The filter FLT is assumed to be the
 % same for all entries
 
+% AUTHOR: Michael West, Geophysical Institute, Univ. of Alaska Fairbanks
+
 % PREP FIELDS
 cutoff = get(flt,'cutoff');
 poles = get(flt,'poles');

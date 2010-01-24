@@ -1,6 +1,9 @@
 function lagplot(c);
 
 
+% AUTHOR: Michael West, Geophysical Institute, Univ. of Alaska Fairbanks
+
+
 % PREP PLOT
 figure('Color','w','Position',[50 50 600 500]);
 set(gcf,'DefaultAxesFontSize',14);

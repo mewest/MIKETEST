@@ -6,8 +6,9 @@
 % reducedisp_write_wfmeas - Writes reduced displacement results to a wfmeas db table
 % reducedisp_plot - Reads a .wfmeas table and makes a simple plot of data
 %
-% Michael West
-% 05/2007
+
+% AUTHOR: Michael West, Geophysical Institute, Univ. of Alaska Fairbanks
+
 
 
 

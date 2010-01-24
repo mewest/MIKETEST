@@ -24,6 +24,8 @@ function c = linkage(c,varargin);
 % 	c = LINKAGE(c,'average') % same as first use
 % 	c = LINKAGE(c,'single')  % useful for evolving waveforms
 
+% AUTHOR: Michael West, Geophysical Institute, Univ. of Alaska Fairbanks
+
 
 if nargin <= 0
     error('Not enough inputs');
